@@ -14,22 +14,23 @@
 
 
 ## Getting Started
-**Create a new GitHub repository.
-**Clone the repository to the local env through commandline/terminal or code editors like Visual Studio Code.
-**Create a new feature branch.
-**Create .gitignore file.
-**Set up GitHub Actions and linters in the local env.
-**Add the main files and folders to the main branch.
-** Add the following files in separate commits-
 <ol>
-   <li>A .html file that includes a header with the text "Hello Microverse!". Use h1 tag for that.</li>
-   <li>A .css file that includes one class with styles for your header (make it in your favorite color).</li>
-   <li>A test.md file with the text "This file should be ignored by git".</li>
+   <li>**Create a new GitHub repository.</li>
+   <li>**Clone the repository to the local env through commandline/terminal or code editors like Visual Studio Code.</li>
+   <li>**Create a new feature branch.</li>
+   <li>**Create .gitignore file.</li>
+   <li>**Set up GitHub Actions and linters in the local env.</li>
+   <li>**Add the main files and folders to the main branch.</li>
+   <li>** Add the following files in separate commits-</li>
+     <ol>
+       <li>A .html file that includes a header with the text "Hello Microverse!". Use h1 tag for that.</li>
+       <li>A .css file that includes one class with styles for your header (make it in your favorite color).</li>
+       <li>A test.md file with the text "This file should be ignored by git".</li>
+     </ol>
+   <li>**Open a pull request.<li>
+   <li>**Submit the project for the code review.</li>
+   <li>**After receiving the review, work on the required changes(if any) and submit again. Keep learning!!!</li>
 </ol>
-**Open a pull request.
-**Submit the project for the code review.
-**After receiving the review, work on the required changes(if any) and submit again. Keep learning!!!
-
 
 ### Prerequisites
 Knowledge of HTML, CSS, Linters, Git & GitHub flows and documenting a repo in a professional way
