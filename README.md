@@ -21,9 +21,11 @@
 **Set up GitHub Actions and linters in the local env.
 **Add the main files and folders to the main branch.
 ** Add the following files in separate commits-
-> A .html file that includes a header with the text "Hello Microverse!". Use h1 tag for that.
-> A .css file that includes one class with styles for your header (make it in your favorite color).
-> A test.md file with the text "This file should be ignored by git".
+<ol>
+   <li>A .html file that includes a header with the text "Hello Microverse!". Use h1 tag for that.</li>
+   <li>A .css file that includes one class with styles for your header (make it in your favorite color).</li>
+   <li>A test.md file with the text "This file should be ignored by git".</li>
+</ol>
 **Open a pull request.
 **Submit the project for the code review.
 **After receiving the review, work on the required changes(if any) and submit again. Keep learning!!!
