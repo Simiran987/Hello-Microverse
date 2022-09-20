@@ -27,7 +27,7 @@
        <li>A .css file that includes one class with styles for your header (make it in your favorite color).</li>
        <li>A test.md file with the text "This file should be ignored by git".</li>
      </ol>
-   <li>**Open a pull request.<li>
+   <li>**Open a pull request.</li>
    <li>**Submit the project for the code review.</li>
    <li>**After receiving the review, work on the required changes(if any) and submit again. Keep learning!!!</li>
 </ol>
