@@ -24,7 +24,7 @@
    <li>**Add the main files and folders to the main branch.</li>
    <li>** Add the following files in separate commits-</li>
      <ol>
-       <li>A .html file that includes a header with the text "Hello Microverse!". Use h1 tag for that. (<i>optional- I added a small intro about me</i>)</li>
+       <li>A .html file that includes a header with the text "Hello Microverse!". Use h1 tag for that. (<i><b>optional</b>- I added a small intro about me</i>)</li>
        <li>A .css file that includes one class with styles for your header (make it in your favorite color).</li>
        <li>A test.md file with the text "This file should be ignored by git".</li>
      </ol>
