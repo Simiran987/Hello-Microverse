@@ -1,7 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello-Microverse Project 👋🏻
-<hr>
 
 
 > Microverse provides the path to learn. Thus, this project also provided me the opportunity to learn using linters, GitHub Flow rules and documenting my work. 
@@ -16,7 +15,6 @@
 
 
 ## Getting Started
-<hr>
 <ol>
    <li>**Create a new GitHub repository.</li>
    <li>**Clone the repository to the local env through commandline/terminal or code editors like Visual Studio Code.</li>
